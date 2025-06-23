@@ -1,4 +1,4 @@
-# YOLOV1-from-scratch# YOLO v1 From Scratch
+# YOLO v1 From Scratch
 
 Implémentation complète de YOLO v1 (You Only Look Once) from scratch en utilisant TensorFlow, NumPy et Pandas.
 
