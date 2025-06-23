@@ -1,0 +1,17 @@
+# Configuration YOLO v1
+model:
+  input_size: 448
+  grid_size: 7
+  num_boxes: 2
+  num_classes: 20
+
+data:
+  dataset: "pascal_voc"
+  data_dir: "./data"
+  batch_size: 16
+  
+training:
+  epochs: 100
+  learning_rate: 0.001
+  momentum: 0.9
+  weight_decay: 0.0005
