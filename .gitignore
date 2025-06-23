@@ -10,8 +10,7 @@ venv/
 *.egg-info/
 
 # Data
-data/raw/
-data/processed/
+data/VOCdevkit/
 *.zip
 *.tar.gz
 
